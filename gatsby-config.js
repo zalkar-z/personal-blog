@@ -1,14 +1,14 @@
 module.exports = {
   siteMetadata: {
-    title: `Blog 102`,
+    title: `Zalkar's blog`,
     author: {
       name: `Zalkar Ziiaidin`,
-      summary: `who writes and reads mostly about tech and business.`,
+      summary: `Posting notes from books and technical readings`,
     },
     description: `A starter blog demonstrating what Gatsby can do.`,
     siteUrl: `https://gatsby-starter-blog-demo.netlify.app/`,
     social: {
-      twitter: `zalkar-z`,
+      twitter: `zalkar_z`,
     },
   },
   plugins: [

@@ -57,11 +57,8 @@ const Bio = () => {
         }}
       />
       <p>
-        Written by <strong>{author.name}</strong> {author.summary}
+        Written by <strong><a href={`https://twitter.com/${social.twitter}`}>{author.name}</a></strong> <br></br>{author.summary}
         {` `}
-        <a href={`https://twitter.com/${social.twitter}`}>
-          You should follow him on Twitter
-        </a>
       </p>
     </div>
   )

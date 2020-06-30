@@ -12,32 +12,27 @@ const BlogIndex = ({ data, location }) => {
 
   return (
     <Layout location={location} title={siteTitle}>
-      <SEO title="All posts" />
+      <SEO title="Zalkar Ziiaidin" />
       <Bio />
+      <h4>2020</h4>
       {posts.map(({ node }) => {
         const title = node.frontmatter.title || node.fields.slug
         return (
-          <article key={node.fields.slug}>
-            <header>
-              <h3
-                style={{
-                  marginBottom: rhythm(1 / 4),
-                }}
-              >
-                <Link style={{ boxShadow: `none` }} to={node.fields.slug}>
-                  {title}
-                </Link>
-              </h3>
-              <small>{node.frontmatter.date}</small>
-            </header>
-            <section>
-              <p
-                dangerouslySetInnerHTML={{
-                  __html: node.frontmatter.description || node.excerpt,
-                }}
-              />
-            </section>
-          </article>
+          <div>
+            <article key={node.fields.slug}>
+              <header>
+                <p
+                  style={{
+                    marginBottom: rhythm(1 / 2),
+                  }}
+                >
+                  <Link style={{ color: 'hsla(0,0%,0%,0.9)' }} to={node.fields.slug}>
+                    {title}
+                  </Link>
+                </p>
+              </header>
+            </article>
+          </div>
         )
       })}
     </Layout>
@@ -63,7 +58,6 @@ export const pageQuery = graphql`
           frontmatter {
             date(formatString: "MMMM DD, YYYY")
             title
-            description
           }
         }
       }

@@ -11,7 +11,7 @@ const Layout = ({ location, title, children }) => {
     header = (
       <h1
         style={{
-          ...scale(0.8),
+          ...scale(1.0),
           marginBottom: rhythm(1.5),
           marginTop: 0,
         }}
@@ -31,18 +31,17 @@ const Layout = ({ location, title, children }) => {
     header = (
       <h3
         style={{
-          fontFamily: `Montserrat, sans-serif`,
+          fontSize: '90%',
           marginTop: 0,
         }}
       >
         <Link
           style={{
-            boxShadow: `none`,
             color: `inherit`,
           }}
           to={`/`}
         >
-          {title}
+          Back to {title}
         </Link>
       </h3>
     )
@@ -58,11 +57,6 @@ const Layout = ({ location, title, children }) => {
     >
       <header>{header}</header>
       <main>{children}</main>
-      <footer>
-        © {new Date().getFullYear()}, Built with
-        {` `}
-        <a href="https://www.gatsbyjs.org">Gatsby</a>
-      </footer>
     </div>
   )
 }

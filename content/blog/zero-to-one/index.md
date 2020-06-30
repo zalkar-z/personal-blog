@@ -1,7 +1,8 @@
 ---
-title: Hello World!
+title: "Zero to One: Notes on startups, or how to build the future"
 date: "2020-06-27"
-description: "I guess my first ever blog starts here today."
+author: "Peter Thiel with Blake Masters"
+rating: 9
 ---
 
 This is my first post on my new blog! How exciting!

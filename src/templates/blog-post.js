@@ -15,29 +15,52 @@ const BlogPostTemplate = ({ data, pageContext, location }) => {
     <Layout location={location} title={siteTitle}>
       <SEO
         title={post.frontmatter.title}
-        description={post.frontmatter.description || post.excerpt}
       />
       <article>
         <header>
           <h1
             style={{
               marginTop: rhythm(1),
-              marginBottom: 0,
+              marginBottom: 20,
+              ...scale(0.6),
             }}
           >
             {post.frontmatter.title}
           </h1>
+          <p 
+            style={{
+              ...scale(-1 / 8),
+              display: `block`,
+              marginBottom: rhythm(0.2),
+            }}
+          >
+            <strong>Author(s): </strong>{post.frontmatter.author}
+          </p>
           <p
             style={{
-              ...scale(-1 / 5),
+              ...scale(-1 / 8),
+              display: `block`,
+              marginBottom: rhythm(0.2),
+            }}
+          >
+            <strong>Date read: </strong>{post.frontmatter.date}
+          </p>
+          <p
+            style={{
+              ...scale(-1 / 8),
               display: `block`,
               marginBottom: rhythm(1),
             }}
           >
-            {post.frontmatter.date}
+            <strong>My rating: </strong>{post.frontmatter.rating}/10
           </p>
         </header>
-        <section dangerouslySetInnerHTML={{ __html: post.html }} />
+        <section 
+          dangerouslySetInnerHTML={{ __html: post.html }} 
+          style={{
+            ...scale(-1 / 8),
+          }}
+          />
         <hr
           style={{
             marginBottom: rhythm(1),
@@ -94,7 +117,8 @@ export const pageQuery = graphql`
       frontmatter {
         title
         date(formatString: "MMMM DD, YYYY")
-        description
+        author
+        rating
       }
     }
   }

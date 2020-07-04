@@ -5,7 +5,7 @@ module.exports = {
       name: `Zalkar Ziiaidin`,
       summary: `My notes and highlights from the books I've read.`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
+    description: `Zalkar Ziiaidin's personal bookshelf with notes and highlights from important readings.`,
     siteUrl: `https://gatsby-starter-blog-demo.netlify.app/`,
     social: {
       twitter: `zalkar_z`,

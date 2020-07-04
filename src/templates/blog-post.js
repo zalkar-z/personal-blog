@@ -27,7 +27,7 @@ const BlogPostTemplate = ({ data, pageContext, location }) => {
           >
             {post.frontmatter.title}
           </h1>
-          <p 
+          {post.frontmatter.title !== "My Wishlist" && <p 
             style={{
               ...scale(-1 / 8),
               display: `block`,
@@ -35,8 +35,8 @@ const BlogPostTemplate = ({ data, pageContext, location }) => {
             }}
           >
             <strong>Author(s): </strong>{post.frontmatter.author}
-          </p>
-          <p
+          </p>}
+          {post.frontmatter.title !== "My Wishlist" && <p
             style={{
               ...scale(-1 / 8),
               display: `block`,
@@ -44,8 +44,8 @@ const BlogPostTemplate = ({ data, pageContext, location }) => {
             }}
           >
             <strong>Date read: </strong>{post.frontmatter.date}
-          </p>
-          <p
+          </p>}
+          {post.frontmatter.title !== "My Wishlist" && <p
             style={{
               ...scale(-1 / 8),
               display: `block`,
@@ -53,7 +53,7 @@ const BlogPostTemplate = ({ data, pageContext, location }) => {
             }}
           >
             <strong>My rating: </strong>{post.frontmatter.rating}/10
-          </p>
+          </p>}
         </header>
         <section 
           dangerouslySetInnerHTML={{ __html: post.html }} 
@@ -70,33 +70,6 @@ const BlogPostTemplate = ({ data, pageContext, location }) => {
           <Bio />
         </footer>
       </article>
-
-      <nav>
-        <ul
-          style={{
-            display: `flex`,
-            flexWrap: `wrap`,
-            justifyContent: `space-between`,
-            listStyle: `none`,
-            padding: 0,
-          }}
-        >
-          <li>
-            {previous && (
-              <Link to={previous.fields.slug} rel="prev">
-                ← {previous.frontmatter.title}
-              </Link>
-            )}
-          </li>
-          <li>
-            {next && (
-              <Link to={next.fields.slug} rel="next">
-                {next.frontmatter.title} →
-              </Link>
-            )}
-          </li>
-        </ul>
-      </nav>
     </Layout>
   )
 }

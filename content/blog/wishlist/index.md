@@ -12,4 +12,5 @@ title: "My Wishlist"
 - [How Google Works](https://www.goodreads.com/book/show/23158207-how-google-works?ac=1&from_search=true&qid=1LnpAp7Oa0&rank=1)
 - [How to Lose a Country: The 7 Steps from Democracy to Dictatorship](https://www.goodreads.com/book/show/42976058-how-to-lose-a-country)
 - [Lonely Ideas: Can Russia Compete?](https://www.goodreads.com/book/show/17756294-lonely-ideas)
+- [Hatching Twitter: A True Story of Money, Power, Friendship, and Betrayal](https://www.goodreads.com/book/show/18656827-hatching-twitter)
 

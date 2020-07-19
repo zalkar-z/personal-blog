@@ -1,8 +1,10 @@
 ---
 title: "My Wishlist"
+index: 0
+pages: 0
+reviewAvailable: false
 ---
 
-- [From Third World to First: The Singapore Story: 1965-2000](https://www.goodreads.com/book/show/144409.From_Third_World_to_First?ac=1&from_search=true&qid=QznlV0RBSM&rank=1)
 - [Becoming by Michelle Obama](https://www.goodreads.com/book/show/38746485-becoming)
 - [High Output Management](https://www.goodreads.com/book/show/324750.High_Output_Management?ac=1&from_search=true&qid=qpMHAmLBHs&rank=1)
 - [Indistractable: How to Control Your Attention and Choose Your Life](https://www.goodreads.com/book/show/44595007-indistractable?ac=1&from_search=true&qid=ihsrKJVRS1&rank=2)

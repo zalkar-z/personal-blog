@@ -27,33 +27,6 @@ const BlogPostTemplate = ({ data, pageContext, location }) => {
           >
             {post.frontmatter.title}
           </h1>
-          {post.frontmatter.title !== "My Wishlist" && <p 
-            style={{
-              ...scale(-1 / 8),
-              display: `block`,
-              marginBottom: rhythm(0.2),
-            }}
-          >
-            <strong>Author(s): </strong>{post.frontmatter.author}
-          </p>}
-          {post.frontmatter.title !== "My Wishlist" && <p
-            style={{
-              ...scale(-1 / 8),
-              display: `block`,
-              marginBottom: rhythm(0.2),
-            }}
-          >
-            <strong>Date read: </strong>{post.frontmatter.date}
-          </p>}
-          {post.frontmatter.title !== "My Wishlist" && <p
-            style={{
-              ...scale(-1 / 8),
-              display: `block`,
-              marginBottom: rhythm(1),
-            }}
-          >
-            <strong>My rating: </strong>{post.frontmatter.rating}/10
-          </p>}
         </header>
         <section 
           dangerouslySetInnerHTML={{ __html: post.html }} 

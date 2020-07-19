@@ -11,7 +11,6 @@ const BlogIndex = ({ data, location }) => {
   const posts = data.allMarkdownRemark.edges
 
   const wishlist = posts.find(post => post.node.frontmatter.title === "My Wishlist");
-  posts.splice(posts.indexOf(wishlist), 1);
 
   return (
     <Layout location={location} title={siteTitle}>

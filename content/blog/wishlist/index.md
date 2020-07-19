@@ -2,6 +2,7 @@
 title: "My Wishlist"
 index: 0
 pages: 0
+date: "2020-06-27"
 reviewAvailable: false
 ---
 

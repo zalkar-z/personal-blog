@@ -11,6 +11,7 @@ const BlogIndex = ({ data, location }) => {
   const posts = data.allMarkdownRemark.edges
 
   const wishlist = posts.find(post => post.node.frontmatter.title === "My Wishlist");
+  posts.splice(posts.indexOf(wishlist), 1);
 
   return (
     <Layout location={location} title={siteTitle}>
@@ -34,32 +35,31 @@ const BlogIndex = ({ data, location }) => {
       <h4>2020</h4>
       {posts.map(({ node }) => {
         const title = node.frontmatter.title || node.fields.slug
-        if (title !== "My Wishlist") {
-          return (
-            <div>
-              <article key={node.fields.slug}>
-                <header>
-                  <p
-                    style={{
-                      marginBottom: rhythm(1 / 2),
-                    }}
-                  >
-                    {node.frontmatter.reviewAvailable
-                    ? (
-                      <Link style={{ color: 'hsla(0,0%,0%,0.9)' }} to={node.fields.slug}>
-                      {title}
-                    </Link>
-                    )
-                    : (
-                      <span>{title}</span>
-                    )}
-                  </p>
-                </header>
-              </article>
-            </div>
-          )
+        return (
+          <div>
+            <article key={node.fields.slug}>
+              <header>
+                <p
+                  style={{
+                    marginBottom: rhythm(1 / 2),
+                  }}
+                >
+                  {node.frontmatter.reviewAvailable
+                  ? (
+                    <Link style={{ color: 'hsla(0,0%,0%,0.9)' }} to={node.fields.slug}>
+                    {title}
+                  </Link>
+                  )
+                  : (
+                    <span>{title}</span>
+                  )}
+                </p>
+              </header>
+            </article>
+          </div>
+        )
         }
-      })}
+      )}
     </Layout>
   )
 }

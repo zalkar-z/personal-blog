@@ -3,7 +3,7 @@ module.exports = {
     title: `Bookshelf`,
     author: {
       name: `Zalkar Ziiaidin`,
-      summary: `My notes and highlights from the books I've read.`,
+      summary: `The books I've read. Some have notes and highlights.`,
     },
     description: `Zalkar Ziiaidin's personal bookshelf with notes and highlights from important readings.`,
     siteUrl: `https://gatsby-starter-blog-demo.netlify.app/`,

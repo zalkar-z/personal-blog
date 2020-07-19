@@ -1,3 +1,12 @@
 * {
   font-family: 'menlo', monospace !important;
 }
+
+ul > li {
+    list-style-type: none;
+}
+
+ul > li > a {
+    color: hsla(0,0%,0%,0.9);
+    text-decoration: none;
+}

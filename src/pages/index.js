@@ -44,9 +44,15 @@ const BlogIndex = ({ data, location }) => {
                       marginBottom: rhythm(1 / 2),
                     }}
                   >
-                    <Link style={{ color: 'hsla(0,0%,0%,0.9)' }} to={node.fields.slug}>
+                    {node.frontmatter.reviewAvailable
+                    ? (
+                      <Link style={{ color: 'hsla(0,0%,0%,0.9)' }} to={node.fields.slug}>
                       {title}
                     </Link>
+                    )
+                    : (
+                      <span>{title}</span>
+                    )}
                   </p>
                 </header>
               </article>
@@ -67,7 +73,7 @@ export const pageQuery = graphql`
         title
       }
     }
-    allMarkdownRemark(sort: { fields: [frontmatter___date], order: DESC }) {
+    allMarkdownRemark(sort: { fields: [frontmatter___title], order: DESC }) {
       edges {
         node {
           excerpt
@@ -75,7 +81,7 @@ export const pageQuery = graphql`
             slug
           }
           frontmatter {
-            date(formatString: "MMMM DD, YYYY")
+            reviewAvailable
             title
           }
         }

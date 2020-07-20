@@ -11,3 +11,7 @@ I have first encountered this book a couple of years ago while still in high sch
 It was the middle of summer 2019 when I started enjoying books more than before. I like reading about business, technology, productivity, and political history. I started this virtual bookshelf to keep track of my reading/wish lists and potentially to reflect on some of my readings. I would love to come back and analyze how my reading habits and preferences have changed over the years. 
 
 **This is the first notes and highlights of my virtual bookshelf. Hurray!**
+
+First of all, I found this book to be extremely helpful to get a general understanding of relationships between the Britain, U.S, China, Soviet Union, and Southeast Asia in particular. 
+
+### Getting the Basics Right

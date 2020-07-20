@@ -14,4 +14,7 @@ It was the middle of summer 2019 when I started enjoying books more than before.
 
 First of all, I found this book to be extremely helpful to get a general understanding of relationships between the Britain, U.S, China, Soviet Union, and Southeast Asia in particular. 
 
-### Getting the Basics Right
+#### Getting the Basics Right
+
+- First line
+- Second line

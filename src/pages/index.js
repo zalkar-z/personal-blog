@@ -11,7 +11,9 @@ const BlogIndex = ({ data, location }) => {
   const posts = data.allMarkdownRemark.edges
 
   const wishlist = posts.find(post => post.node.frontmatter.title === "My Wishlist");
-  const posts_clean = posts.filter(post => post.node.frontmatter.index > 0);
+  const postsClean = posts.filter(post => post.node.frontmatter.index > 0);
+  var pagesTotal = 0;
+  postsClean.map(node => pagesTotal += node.node.frontmatter.pages);
 
   return (
     <Layout location={location} title={siteTitle}>
@@ -32,8 +34,8 @@ const BlogIndex = ({ data, location }) => {
           </header>
         </article>
       </div>
-      <h4>2020</h4>
-      {posts_clean.map(({ node }) => {
+      <h4>2020 - {postsClean.length} books | {pagesTotal} pages</h4>
+      {postsClean.map(({ node }) => {
         const title = node.frontmatter.title || node.fields.slug
         return (
           <div key={node.fields.slug}>
@@ -84,6 +86,7 @@ export const pageQuery = graphql`
             reviewAvailable
             title
             index
+            pages
           }
         }
       }

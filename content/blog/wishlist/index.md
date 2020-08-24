@@ -16,4 +16,5 @@ reviewAvailable: false
 - [How to Lose a Country: The 7 Steps from Democracy to Dictatorship](https://www.goodreads.com/book/show/42976058-how-to-lose-a-country)
 - [Lonely Ideas: Can Russia Compete?](https://www.goodreads.com/book/show/17756294-lonely-ideas)
 - [Hatching Twitter: A True Story of Money, Power, Friendship, and Betrayal](https://www.goodreads.com/book/show/18656827-hatching-twitter)
+- [Good to Great: Why Some Companies Make the Leap... and Others Don't](https://www.goodreads.com/book/show/76865.Good_to_Great)
 

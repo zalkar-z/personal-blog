@@ -17,4 +17,5 @@ reviewAvailable: false
 - [Lonely Ideas: Can Russia Compete?](https://www.goodreads.com/book/show/17756294-lonely-ideas)
 - [Hatching Twitter: A True Story of Money, Power, Friendship, and Betrayal](https://www.goodreads.com/book/show/18656827-hatching-twitter)
 - [Good to Great: Why Some Companies Make the Leap... and Others Don't](https://www.goodreads.com/book/show/76865.Good_to_Great)
+- [Software Engineering at Google: Lessons Learned from Programming Over Time](https://www.goodreads.com/book/show/48816586-software-engineering-at-google)
 

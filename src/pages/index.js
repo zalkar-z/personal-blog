@@ -34,6 +34,12 @@ const BlogIndex = ({ data, location }) => {
           </header>
         </article>
       </div>
+      <div style={{ marginTop: '40px' }}>
+        <p>
+          <strong>Reading now: </strong>
+          <span>How to Read a Book: The Classic Guide to Intelligent Reading</span>
+        </p>
+      </div>
       <h4>2020 - {postsClean.length} books | {pagesTotal} pages</h4>
       {postsClean.map(({ node }) => {
         const title = node.frontmatter.title || node.fields.slug

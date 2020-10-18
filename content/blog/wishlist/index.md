@@ -6,7 +6,6 @@ date: "2020-06-27"
 reviewAvailable: false
 ---
 
-- [Hatching Twitter: A True Story of Money, Power, Friendship, and Betrayal](https://www.goodreads.com/book/show/18656827-hatching-twitter)
 - [Good to Great: Why Some Companies Make the Leap... and Others Don't](https://www.goodreads.com/book/show/76865.Good_to_Great)
 - [Software Engineering at Google: Lessons Learned from Programming Over Time](https://www.goodreads.com/book/show/48816586-software-engineering-at-google)
 - [Think and Grow Rich](https://www.goodreads.com/book/show/30186948-think-and-grow-rich)

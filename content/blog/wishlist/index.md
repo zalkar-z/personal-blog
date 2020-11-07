@@ -16,3 +16,5 @@ reviewAvailable: false
 - [How Google Works](https://www.goodreads.com/book/show/23158207-how-google-works?ac=1&from_search=true&qid=1LnpAp7Oa0&rank=1)
 - [How to Lose a Country: The 7 Steps from Democracy to Dictatorship](https://www.goodreads.com/book/show/42976058-how-to-lose-a-country)
 - [Lonely Ideas: Can Russia Compete?](https://www.goodreads.com/book/show/17756294-lonely-ideas)
+- [Built to Sell: Creating a Business That Can Thrive Without You](https://www.goodreads.com/book/show/10075698-built-to-sell)
+- [Sapiens: A Brief History of Humankind](https://www.goodreads.com/book/show/23692271-sapiens?ac=1&from_search=true&qid=pGNhZUTfUs&rank=1)

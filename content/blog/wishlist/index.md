@@ -6,6 +6,8 @@ date: "2020-06-27"
 reviewAvailable: false
 ---
 
+- [Antifragile: Things That Gain from Disorder](https://www.goodreads.com/book/show/13530973-antifragile)
+- [The Art of Doing Science and Engineering: Learning to Learn](https://www.goodreads.com/book/show/530415.The_Art_of_Doing_Science_and_Engineering)
 - [Good to Great: Why Some Companies Make the Leap... and Others Don't](https://www.goodreads.com/book/show/76865.Good_to_Great)
 - [Software Engineering at Google: Lessons Learned from Programming Over Time](https://www.goodreads.com/book/show/48816586-software-engineering-at-google)
 - [Think and Grow Rich](https://www.goodreads.com/book/show/30186948-think-and-grow-rich)

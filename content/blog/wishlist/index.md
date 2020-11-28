@@ -6,6 +6,7 @@ date: "2020-06-27"
 reviewAvailable: false
 ---
 
+- [Delivering Happiness: A Path to Profits, Passion, and Purpose](https://www.goodreads.com/book/show/6828896-delivering-happiness)
 - [Antifragile: Things That Gain from Disorder](https://www.goodreads.com/book/show/13530973-antifragile)
 - [The Art of Doing Science and Engineering: Learning to Learn](https://www.goodreads.com/book/show/530415.The_Art_of_Doing_Science_and_Engineering)
 - [Good to Great: Why Some Companies Make the Leap... and Others Don't](https://www.goodreads.com/book/show/76865.Good_to_Great)

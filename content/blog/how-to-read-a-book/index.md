@@ -8,16 +8,16 @@ reviewAvailable: true
 
 - There is no need to apply all of your reading skills to every reading. Deciding to read to the best of your skills only several books that actually worth it is good enough.
 
-# Inspectional Reading
+## Inspectional Reading
 
 - Step#1: Read the title, the subtitle, the table of contents, preface, intro, index, dust jacket. It will help you to understand which way the wind is blowing. 
 - Step#2: If needed, read intros and conclusions of some chapters. Read further if needed. 
 
-# Analytical Reading (The Third Level of Reading)
+## Analytical Reading (The Third Level of Reading)
 
 - Stage#1: Understand book's structure (Rules#1,2,3,4)
 
-## 1. Pigeonholing a Book
+### 1. Pigeonholing a Book
 
 **Contents:**
 
@@ -55,7 +55,7 @@ reviewAvailable: true
 - In contrast, theoretical philosophy books refer to the reader's daily life in order to prove a point.
 
 
-## 2. X-raying a Book
+### 2. X-raying a Book
 
 **Contents:**
 
@@ -109,4 +109,4 @@ reviewAvailable: true
 - Define the problem and problems the author is trying to solve
 
 
-## 3. Coming to Terms with an Author
+### 3. Coming to Terms with an Author

@@ -8,12 +8,12 @@ reviewAvailable: true
 
 - There is no need to apply all of your reading skills to every reading. Deciding to read to the best of your skills only several books that actually worth it is good enough.
 
-## Inspectional Reading
+## Inspectional Reading (level 2)
 
 - Step#1: Read the title, the subtitle, the table of contents, preface, intro, index, dust jacket. It will help you to understand which way the wind is blowing. 
 - Step#2: If needed, read intros and conclusions of some chapters. Read further if needed. 
 
-## Analytical Reading (The Third Level of Reading)
+## Analytical Reading (level 3)
 
 - Stage#1: Understand book's structure (Rules#1,2,3,4)
 

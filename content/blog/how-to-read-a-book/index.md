@@ -196,7 +196,7 @@ Goal: Finding structure / what the book is about
 
 > Another furmulation of Rule#7: Find if you can the paragraphs in a book that state its important arguments; but if the arguments are not thus expressed, your task is to construct them, by taking a sentence from this paragraph, and one from that, until you have gathered together the sequence of sentences that state the propositions that compose the argument.
 
-#### Finding the Solutions
+#### Finding the Solutions (Rule#8)
 
 - These three rules of analytical reading–about terms, propositions, and arguments-can be brought to a head in an eight rule, which governs the last step in the interpretation of a book's content. More than that, it ties together the first state of analytical reading (outlining the structure) and the second stage (interpreting the contents). 
 

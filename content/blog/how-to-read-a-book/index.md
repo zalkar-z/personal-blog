@@ -16,6 +16,7 @@ reviewAvailable: true
 ## Analytical Reading (level 3)
 
 - Stage#1: Understand book's structure (Rules#1,2,3,4)
+- Stage#2: Book interpretation (Rules#5, )
 
 ### 1. Pigeonholing a Book
 
@@ -110,3 +111,30 @@ reviewAvailable: true
 
 
 ### 3. Coming to Terms with an Author
+
+**Contents:**
+
+- Words vs. Terms
+- Finding the Key Words
+- Technical Words and Special Vocabularies
+- Finding the Meanings
+
+#### Words vs. Terms
+
+- One word can be the vehicle for *many terms*, and one term can be expressed by *many words*
+- Term = a word used unambiguously
+- Term = a skilled use of words for the sake of communicating knowledge
+- This chapter exclusively applies to expository books. Poetry and fiction aren't that much concerned about conveying specific knowledge through terms
+
+> Rule#5: Find the important words and through them come to terms with the author
+
+- Notice that the rule#5 above has two parts. The first part is to locate the important words, the words that make a difference. The second part is to determine the meaning of these words, as used, with precision
+- These steps are important in order to truly understand an author. If language was a pure and perfect medium for thought, if each word was an ideal term. There would be no need for interpretation, you would be able to see straight through the writer's words to the content of their mind. Interpretation would be unnecessary.
+- Because language is imperfect as a medium for conveying knowledge, it also functions as an obstacle to communication. The rules of **interpretive reading** are directed to overcoming that obstacle. 
+
+#### Finding the Key Words
+
+- 
+
+
+

@@ -21,9 +21,21 @@ reviewAvailable: true
 - Stage#2: Interpret book's content (Rules#5, 6, 7, 8)
 - Stage#3: Criticizing a book as a communication of knowledge
 
+**Notes:**
+
 - The arts of grammar, logic, and rhetoric cooperate in regulaing the elaborate processes of writing and reading. 
 - Skill in the first two stages of analytical reading comes from a mastery of grammar and logic. Skill in the third stage depends on the art of rhetoric.
 - While the first two stages of analytical reading can be done in any order or even combined together. The third stage of analytical reading has to be done after the first two. Every reader must make sure to understand the book before critizing. 
+
+**Contents:**
+
+1) Pigeonholing a Book
+2) X-raying a Book
+3) Coming to Terms with an Author
+4) Determining an Author's Message
+5) Criticizing a book fairly (Critical Reading)
+6) Agreeing or Disagreeing with an Author
+7) Aids to Reading
 
 ### 1. Pigeonholing a Book
 
@@ -61,7 +73,6 @@ reviewAvailable: true
 - History books tell you a story. The essence of history is narration. History is chronotopic. *Chronos* is the Greek word for time, *topos* the Greek word for place. History is all about events in some places at a particular time. 
 - Theoretical scientific books emphasize things that lie outside the scope of average man's normal routine. It might be some kind of edge breaking experiment or a pretty complex proof of some fact. 
 - In contrast, theoretical philosophy books refer to the reader's daily life in order to prove a point.
-
 
 ### 2. X-raying a Book
 

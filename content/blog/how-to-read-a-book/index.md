@@ -15,8 +15,15 @@ reviewAvailable: true
 
 ## Analytical Reading (level 3)
 
-- Stage#1: Understand book's structure (Rules#1,2,3,4)
-- Stage#2: Interpret the book (Rules#5, 6, 7, 8)
+**Three stages:**
+
+- Stage#1: Understand what the book is about and find out its structure (Rules#1,2,3,4)
+- Stage#2: Interpret book's content (Rules#5, 6, 7, 8)
+- Stage#3: Criticizing a book as a communication of knowledge
+
+- The arts of grammar, logic, and rhetoric cooperate in regulaing the elaborate processes of writing and reading. 
+- Skill in the first two stages of analytical reading comes from a mastery of grammar and logic. Skill in the third stage depends on the art of rhetoric.
+- While the first two stages of analytical reading can be done in any order or even combined together. The third stage of analytical reading has to be done after the first two. Every reader must make sure to understand the book before critizing. 
 
 ### 1. Pigeonholing a Book
 
@@ -109,7 +116,7 @@ Goal: Finding structure / what the book is about
 - Rule#1: Classify the book according to kind and subject matter
 - Rule#2: State what the whole book is about with the utmost brevity
 - Rule#3: Enumerate its major parts in their order and relation, and outline these parts as you have outlined the whole
-- Rule#4: Define the problem and problems the author is trying to solve
+- Rule#4: Define the problem or problems the author is trying to solve
 
 
 ### 3. Coming to Terms with an Author
@@ -239,10 +246,6 @@ Goal: Finding out what a book says (interpreting its contents)
 
 #### The Importance of Suspending Judgment
 
-- The arts of grammar, logic, and rhetoric cooperate in regulaing the elaborate processes of writing and reading. 
-- Skill in the first two stages of analytical reading comes from a mastery of grammar and logic. Skill in the third stage depends on the art of rhetoric.
-- While the first two stages of analytical reading can be done in any order or even combined together. The third stage of analytical reading has to be done after the first two. Every reader must make sure to understand the book before critizing. 
-
 > Rule#9: You must be able to say, with reasonable certainty, "I understand", before you can say any one of the following things: "I agree" or "I disagree" or "I suspend judgment". These three remarks exhaust all the critical positions you can take.
 
 - Suspending judgment is important if you have not finished reading the book entirely. Even so, you might still have some work to do in the first two phases of nalytical reading before you can state your judgment.
@@ -260,10 +263,40 @@ Goal: Finding out what a book says (interpreting its contents)
 - Opinion = unsupported judgment 
 - Knowledge = opinion that can be defended
 
-**Summary:**
 
-The three general maxims for criticizing a book:
+#### 6. Agreeing or Disagreeing with an Author
 
-- Complete the task of understanding before judging.
-- Do not be disputatious or contentious in your judgment.
-- Support your opinions by giving reasons for any critical judgment you make.
+**Contents:**
+
+- Prejudice and Judgment
+- Judging the Author's Soundness
+- Judging the Author's Completeness
+- The Third Stage of Analytical Reading
+
+**Intro:**
+
+- If for the Rule#9 you said, "I don't understand" and you think that the fault is with the book rather than you - you should be able to support your argument that the book is unintelligible by pointing out the sources of trouble.
+- On the other side, if you said, "I understand" and you agree with the author - the work of analytical reading is complete done.
+
+#### Prejudice and Judgment
+
+- In case you said, "I understand but Disagree," you can make the following remarks to the author: (1) "You are uninformed"; (2) "You are misinformed"; (3) "You are illogical - your reasoning is not cogent"; (4) "Your analysis is incomplete".
+
+#### The Third Stage of Analytical Reading
+
+A. General Maxims of Intellectual Etiquette
+
+- Rule#9: Complete the task of understanding before judging.
+- Rule#10: Do not be disputatious or contentious in your judgment.
+- Rule#11: Support your opinions by giving reasons for any critical judgment you make.
+
+B. Special Criteria for Points of Criticism
+
+- Rule#12: Show wherein the author is uninformed.
+- Rule#13: Show wherein the author is misinformed.
+- Rule#14: Show wherein the author is illogical.
+- Rule#15: Show wherein the author's analysis or account is incomplete.
+
+### Summary for Analytical Reading
+
+page 163-165

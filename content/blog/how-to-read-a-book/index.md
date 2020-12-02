@@ -214,3 +214,56 @@ Goal: Finding out what a book says (interpreting its contents)
 - Rule#8: Determine which of his problems the author has solved, and which he has not; ans as to the latter, decide which the author knew he had failed to solve.
 
 > Progress check! If you made it here and understood the eight rules of analytical reading-you have come a long way. More than that, you are now able to complete your analytical reading of the book. The third and the last stage of the job will be relatively easy. You have been keeping your eyes and your mind open and your mouth shut. Up to this point, you have been following the author. From this point on, you are going to have a chance to argue with the author and express yourself.
+
+#### 5. Criticizing a book fairly (Critical Reading)
+
+**Contents:**
+
+- Teachability as a Virtue
+- The Role of Rhetoric
+- The Importance of Suspending Judgment
+- The Importance of Avoiding Contentiousness
+- On the Resolution of Disagreements
+
+**Intro:**
+
+- The activity of reading does not stop with the work of understanding what a book says. It *must be completed by the work of criticism, the work of judging.* 
+
+#### Teachability as a Virtue
+
+- A person is wrongly thought to be teachable if he is passive and pliable. On the contrary, teachability is an extremely active virtue. No one is really teachable who does not freely exercise his power of independent judgment. He can be trained, perhaps, but not taught. *The most teachable reader is, therefore, the most critical*. 
+
+#### The Role of Rhetoric
+
+- Rhetoric is involved in every communication that takes place among human beings. In the context of criticizing a book, rhetoric is a skill of knowing how to react to anyone who tries to convince or persuade us. 
+
+#### The Importance of Suspending Judgment
+
+- The arts of grammar, logic, and rhetoric cooperate in regulaing the elaborate processes of writing and reading. 
+- Skill in the first two stages of analytical reading comes from a mastery of grammar and logic. Skill in the third stage depends on the art of rhetoric.
+- While the first two stages of analytical reading can be done in any order or even combined together. The third stage of analytical reading has to be done after the first two. Every reader must make sure to understand the book before critizing. 
+
+> Rule#9: You must be able to say, with reasonable certainty, "I understand", before you can say any one of the following things: "I agree" or "I disagree" or "I suspend judgment". These three remarks exhaust all the critical positions you can take.
+
+- Suspending judgment is important if you have not finished reading the book entirely. Even so, you might still have some work to do in the first two phases of nalytical reading before you can state your judgment.
+
+#### The Importance of Avoiding Contentiousness
+
+> Rule#10: When you disagree, do so reasonably, and not disputatiously or contentiously. There is no point in winning an argument if you know or suspect you are wrong.
+
+- As a reader, you *should be as prepared to agree as to disagree*. You win only by gaining knowledge, not by winning the argument with the teacher (author) (alive or dead). 
+
+#### On the Resolution of Disagreements
+
+> Rule#11: Respect the difference between knowledge and mere personal opinion by giving reasons for any critical judgment you make.
+
+- Opinion = unsupported judgment 
+- Knowledge = opinion that can be defended
+
+**Summary:**
+
+The three general maxims for criticizing a book:
+
+- Complete the task of understanding before judging.
+- Do not be disputatious or contentious in your judgment.
+- Support your opinions by giving reasons for any critical judgment you make.

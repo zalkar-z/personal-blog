@@ -308,6 +308,53 @@ B. Special Criteria for Points of Criticism
 - Rule#14: Show wherein the author is illogical.
 - Rule#15: Show wherein the author's analysis or account is incomplete.
 
+#### 7. Aids to Reading
+
+**Contents:**
+
+- The Role of Relevant Experience
+- Other Books as Extrinsic Aids to Reading
+- How to Use Commentaries and Abstracts
+- How to Use Reference Books
+- How to Use a Dictionary
+- How to Use an Encyclopedia
+
+**Intro:**
+
+- *Extrincis* aid to reading is any aid to reading that lies outside the book being read.
+- *Intrinsic* reading is reading a book on its own without any external resources involved.
+- So far we have intentionally focused on *intrinsic* reading only in order to learn as much as we can on our own. But it would be wrong to ignore *extrincis* aids to reading. Extrinsic aid can help. And sometimes they are necessary for full understanding. 
+- Do your best before jumping to extrincis aids. There is always more you can understand on your own and you will find that you need less and less outside help.
+- There is no specific order of use for the extrinsic aids listed below. 
+
+#### The Role of Relevant Experience
+
+- Common experience might help you to understand philosophy books
+- Special experience might help you to udnerstand scientific books and history. 
+
+#### Other Books as Extrinsic Aids to Reading
+
+- Some books might be related to each other (earlier versions) - make sure to read such books in the right order to improve your understanding.
+
+#### How to Use Commentaries and Abstracts
+
+- Use commentaries, abstracts, and plot digests wisely, which is to say sparingly. Never read any of these before reading the book itself completely. 
+- Commentaries, abstracts, and plot digests might be useful in understanding some parts of a book. However, it is easy to get into the habit of depending on those too much, which will make you a worse reading in a long run.
+- Commentaries, abstracts, and plot digests might be a good tool to remember the books you have already read.
+
+#### How to Use Reference Books
+
+- There are many kinds of reference books. Here we will confine outselves mainly to the two most used kinds, dictionaries and encyclopedias. 
+- To make reference books efficient for your reading, you must know what you are looking for and you must be able to ask a specific question. Reference books are useless to people who know nothing. 
+
 ### Summary for Analytical Reading
 
-page 163-165
+
+### Dictionary
+
+- Extrincis: external
+- Intrinsic: internal
+- Slavishly: of or characteristic of a slave
+- Exhaustive: including all possibilities
+
+

@@ -349,6 +349,18 @@ B. Special Criteria for Points of Criticism
 
 ### Summary for Analytical Reading
 
+- The three stages and fifteen rules of analytical reading all help us answer the following four questions about the book we're reading:
+
+1) What is the book about as a whole? (stage#1)
+2) What is being said in detail, and how? (stage#2)
+3) Is it true? (stage#3)
+4) What of it? (stage#3)
+
+- These four questions summarize all the obligations of a reader. 
+- It is important to note, that these rules of analytical reading describe an ideal perfomance. Few people have ever read any book in this ideal manner and those who have, probably read very few books this way. The ideal remains, however, the measure of achievement. You are a good reader to the degree of which you approximate it. 
+- Focus on quality instead of quantity. There are, of course, many books worth reading well. There is a much larger numer that should only be inspected. To become well-read, in every sense of the world, one must know how to use whatever skill one possesses with discrimination - by reading every book according to its merits. 
+- Mastering a book as a reader, enables you to become peers with its authors. 
+
 
 ### Dictionary
 

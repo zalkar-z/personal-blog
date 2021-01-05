@@ -21,3 +21,4 @@ reviewAvailable: false
 - [Lonely Ideas: Can Russia Compete?](https://www.goodreads.com/book/show/17756294-lonely-ideas)
 - [Built to Sell: Creating a Business That Can Thrive Without You](https://www.goodreads.com/book/show/10075698-built-to-sell)
 - [Sapiens: A Brief History of Humankind](https://www.goodreads.com/book/show/23692271-sapiens?ac=1&from_search=true&qid=pGNhZUTfUs&rank=1)
+- [What I Wish I Knew When I Was 20](https://www.goodreads.com/book/show/6081261-what-i-wish-i-knew-when-i-was-20)

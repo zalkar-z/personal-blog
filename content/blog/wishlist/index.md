@@ -23,3 +23,4 @@ reviewAvailable: false
 - [Sapiens: A Brief History of Humankind](https://www.goodreads.com/book/show/23692271-sapiens?ac=1&from_search=true&qid=pGNhZUTfUs&rank=1)
 - [What I Wish I Knew When I Was 20](https://www.goodreads.com/book/show/6081261-what-i-wish-i-knew-when-i-was-20)
 - [The Wealth and Poverty of Nations: Why Some Are So Rich and Some So Poor](https://www.goodreads.com/book/show/209176.The_Wealth_and_Poverty_of_Nations)
+- [Fahrenheit 451](https://www.goodreads.com/book/show/13079982-fahrenheit-451)
